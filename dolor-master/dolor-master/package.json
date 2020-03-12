@@ -1,0 +1,32 @@
+{
+  "name": "dolor",
+  "version": "0.2.1",
+  "description": "NodeJS version of the Frank project as a wonderful set of helpers for generating random text content like lorem ipsum.",
+  "main": "index.js",
+  "scripts": {
+    "test" : "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mrzmyr/dolor.git"
+  },
+  "keywords": [
+    "lorem",
+    "ipsum",
+    "frank",
+    "dolor",
+    "node",
+    "blind",
+    "text"
+  ],
+  "author": "mrzmyr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrzmyr/dolor/issues"
+  },
+  "homepage": "https://github.com/mrzmyr/dolor",
+  "devDependencies": {
+    "mocha": "^2.3.3"
+  }
+}
